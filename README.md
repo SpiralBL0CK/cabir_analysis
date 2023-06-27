@@ -26,7 +26,8 @@ next install any perl engine
 
 next install nokia pc suite([https://www.usitility.com/nokia-pc-suite/](https://www.usitility.com/nokia-pc-suite/))
 
-install SDK([http://www.mediafire.com/file/9uc7fjb2ynmxlud/s60v3.1\_SDK.zip/file](http://www.mediafire.com/file/9uc7fjb2ynmxlud/s60v3.1\_SDK.zip/file))
+install SDK([http://www.mediafire.com/file/9uc7fjb2ynmxlud/s60v3.1\_SDK.zip/file
+](http://www.mediafire.com/file/9uc7fjb2ynmxlud/s60v3.1\_SDK.zip/file))
 
 install c/c++ plugin ([https://ia800905.us.archive.org/7/items/nokia\_sdks\_n\_dev\_tools/s60\_open\_c\_cpp\_plug\_in\_v1\_7\_en.zip](https://ia800905.us.archive.org/7/items/nokia\_sdks\_n\_dev\_tools/s60\_open\_c\_cpp\_plug\_in\_v1\_7\_en.zip))
 
