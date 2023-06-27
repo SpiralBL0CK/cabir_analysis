@@ -9,6 +9,25 @@ cabin partial analysis
 
 <img width="550" alt="Screenshot 2023-06-28 at 01 22 02" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/50a2c6da-efb1-4dc3-aff9-4e3999fcb6a2">
 
+<img width="736" alt="Screenshot 2023-06-28 at 01 33 06" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/dd837a43-a754-4296-8008-fcabe9d576d6">
+
+<img width="736" alt="Screenshot 2023-06-28 at 01 32 54" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/aac5c79d-dec5-450c-b7c7-7985238b48d1">
+
+<img width="736" alt="Screenshot 2023-06-28 at 01 32 37" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/ab3c8926-e3b0-4d5e-9a76-040029e35fab">
+
+<img width="736" alt="Screenshot 2023-06-28 at 01 32 16" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/08cf1763-917a-46d4-b127-bdc0d895a8bf">
+
+<img width="736" alt="Screenshot 2023-06-28 at 01 32 06" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/bbada9cc-7b14-41c6-af02-8148c3c2968a">
+
+<img width="736" alt="Screenshot 2023-06-28 at 01 31 55" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/6a3a3dca-6fc2-4f10-a928-149691b78f0b">
+
+
+
+
+
+
+
+------------------------------------
 <img width="736" alt="Screenshot 2023-06-28 at 01 31 41" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/c60ad721-7ad2-4e0f-9342-8dd4986b57ec">
 <img width="736" alt="Screenshot 2023-06-28 at 01 31 29" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/9f62bcdc-a784-4ff2-94bc-432b30d1efd2">
 <img width="736" alt="Screenshot 2023-06-28 at 01 31 11" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/7897426d-f3e0-451e-b060-18c8d1f70ef8">
@@ -38,14 +57,3 @@ cabin partial analysis
 <img width="550" alt="Screenshot 2023-06-28 at 01 22 16" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/10d3d3ac-1430-466a-892a-b99f82e725a2">
 
 
-<img width="736" alt="Screenshot 2023-06-28 at 01 33 06" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/dd837a43-a754-4296-8008-fcabe9d576d6">
-
-<img width="736" alt="Screenshot 2023-06-28 at 01 32 54" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/aac5c79d-dec5-450c-b7c7-7985238b48d1">
-
-<img width="736" alt="Screenshot 2023-06-28 at 01 32 37" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/ab3c8926-e3b0-4d5e-9a76-040029e35fab">
-
-<img width="736" alt="Screenshot 2023-06-28 at 01 32 16" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/08cf1763-917a-46d4-b127-bdc0d895a8bf">
-
-<img width="736" alt="Screenshot 2023-06-28 at 01 32 06" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/bbada9cc-7b14-41c6-af02-8148c3c2968a">
-
-<img width="736" alt="Screenshot 2023-06-28 at 01 31 55" src="https://github.com/SpiralBL0CK/cabir_analysis/assets/25670930/6a3a3dca-6fc2-4f10-a928-149691b78f0b">
